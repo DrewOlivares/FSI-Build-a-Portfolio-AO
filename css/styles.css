@@ -1,7 +1,42 @@
-body {
-color:cyan;
+
+h1{ 
+    text-align: center;
+    color:#851010;
+    font-size: 50px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 100px;
+    border-width: 5px;
+    background-color:rgb(0, 0, 0);
 }
-h1 {
-    color:aqua;
-    font-size: 12px; 
+body{
+    background-color:#f5f1f1;
+}
+div{
+    color:#851010;
+}
+.myfav{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.image{
+    text-align: center;
+}
+img{
+   max-width: 350px;
+   max-height: 350px;
+}
+.contactinfo{
+    text-align: center;
+    color: black;
+}
+h3 {
+    text-align: center;
+}
+ul{
+    font-size: larger;
+    color:rgb(143, 4, 4);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
